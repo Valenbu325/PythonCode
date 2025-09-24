@@ -13,7 +13,7 @@ Este repositorio contiene notebooks y ejemplos en **Python**, pensados para apre
 
 ## Autores
 
-/Andres Moreno
-/Luis Agudelo
-/Aron Agudelo
-/Valentina Burgos 
+Andres Moreno  
+Luis Agudelo  
+Aron Agudelo  
+Valentina Burgos   
