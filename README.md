@@ -8,7 +8,7 @@ Este repositorio contiene notebooks y ejemplos en **Python**, pensados para apre
 - Tipos y Variables
 - Operaciones y Expresiones
 - Estructuras de control
-- Clecciones
+- Colecciones
 - Funciones
 
 ## Autores
